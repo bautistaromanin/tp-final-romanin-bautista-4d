@@ -21,3 +21,7 @@ main {
   width: 80%;
   margin: 20px;
 }
+h2 {
+  color: lightblue;
+  border-bottom: 2px solid pink;
+}
