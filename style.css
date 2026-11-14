@@ -9,3 +9,11 @@ header {
   text-align: center;
   padding: 15px;
 }
+h1 {
+  color: lightgreen;
+}
+nav {
+  background-color: pink;
+  text-align: center;
+  padding: 10px;
+}
