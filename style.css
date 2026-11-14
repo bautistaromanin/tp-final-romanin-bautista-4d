@@ -25,3 +25,8 @@ h2 {
   color: lightblue;
   border-bottom: 2px solid pink;
 }
+img {
+  width: 100%;
+  margin: 15px;
+  border: 3px;
+}
